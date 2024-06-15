@@ -1,6 +1,6 @@
 {
-  "version": "v3.6",
-  "versionCode": 18,
-  "zipUrl": "https://raw.githubusercontent.com/Zackptg5/MMT-Extended/install.zip",
-  "changelog": "https://raw.githubusercontent.com/Zackptg5/MMT-Extended/changelog.md"
+  "version": "MiSans v4.0030 (21-1)",
+  "versionCode": "1",
+  "zipUrl": "https://github.com/KFERMercer/LineageOS-MiSans_Pro/releases/latest/download/LineageOS-MiSans_Pro.zip",
+  "changelog": "https://github.com/KFERMercer/LineageOS-MiSans_Pro/blob/MiSans-v4.0030_LineageOS-21_1/changelog.md"
 }

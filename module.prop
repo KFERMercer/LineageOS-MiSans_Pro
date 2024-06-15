@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v3.7
-versionCode=19
-author=Zackptg5
-description=Magisk Module Template Extended
+id=MiSans-Pro
+name=MiSans Pro
+version=MiSans v4.0030 (21_1)
+versionCode=1
+author=KFERMercer
+description=MiSans Pro for LineageOS. See: https://github.com/KFERMercer/lineageos-font-magisk-module
 updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
