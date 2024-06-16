@@ -1,7 +1,7 @@
 id=MiSans-Pro
 name=MiSans Pro
-version=MiSans v4.0030 (21_1)
-versionCode=1
+version=MiSans v4.0030 (21_2)
+versionCode=2
 author=KFERMercer
-description=MiSans Pro for LineageOS. See: https://github.com/KFERMercer/lineageos-font-magisk-module
+description=MiSans Pro for LineageOS. See: https://github.com/KFERMercer/LineageOS-MiSans_Pro
 updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
